@@ -15,7 +15,7 @@ Comment ça fonctionne ?
 
 ## Installation
 
-Télécharger le fichier ZIP , Extraire ici, et lancer Hangman.html avec votre Nagivateur
+Télécharger le fichier ZIP , Extraire ici, et lancer Index.html avec votre Nagivateur
 
 ## Fabriqué avec
 

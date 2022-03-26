@@ -12,6 +12,10 @@ Comment ça fonctionne ?
 
 
 
+API : http://www.OpenWeatherMap.org
+
+
+
 
 ## Installation
 
